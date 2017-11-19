@@ -1,0 +1,3 @@
+rootProject.name = 'codetalksreactnativedemo'
+
+include ':app'

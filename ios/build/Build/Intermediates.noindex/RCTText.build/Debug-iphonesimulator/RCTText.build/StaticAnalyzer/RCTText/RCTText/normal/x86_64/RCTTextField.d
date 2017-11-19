@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/julian/Projects/thesis/prototypes/react-native/node_modules/react-native/Libraries/Text/RCTTextField.m \
+  /Users/julian/Projects/thesis/prototypes/react-native/node_modules/react-native/Libraries/Text/RCTTextField.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/node_modules/react-native/Libraries/Text/RCTTextInput.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/node_modules/react-native/Libraries/Text/RCTBackedTextInputViewProtocol.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/node_modules/react-native/Libraries/Text/RCTFontAttributes.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/node_modules/react-native/Libraries/Text/RCTFontAttributesDelegate.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/node_modules/react-native/Libraries/Text/RCTBackedTextInputDelegate.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/node_modules/react-native/Libraries/Text/RCTTextSelection.h \
+  /Users/julian/Projects/thesis/prototypes/react-native/node_modules/react-native/Libraries/Text/RCTUITextField.h

@@ -1,0 +1,27 @@
+{
+  "name": "codetalks-react-native-demo",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "react-test-renderer": "16.1.1"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "babel-plugin-transform-proto-to-assign": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "baqend": "^2.8.6",
+    "react": "16.1.1",
+    "react-native": "0.50.3",
+    "react-native-vector-icons": "^4.4.2",
+    "react-navigation": "^1.0.0-beta.11"
+  }
+}
